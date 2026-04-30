@@ -25,7 +25,7 @@ This project analyzes Blinkit sales data to uncover insights about outlet perfor
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+<img width="1316" height="746" alt="Dash board" src="https://github.com/user-attachments/assets/0d98f16c-28c0-40c2-8617-b28a92c35b11" />
 
 ## 📁 Files Included
 
